@@ -1,8 +1,8 @@
 # React Clothes Store
 
-This is a small pet project on React course. It allows users to add, update and delete feedback.
+This is a small pet project on React(Redux). It contains all main functionality of small store.
 
-Please check: https://react-feedback-app-mu.vercel.app/
+Please check: https://react-clothes-store-da84.vercel.app/
 
 This project goes over all of the fundamentals of React including...
 
